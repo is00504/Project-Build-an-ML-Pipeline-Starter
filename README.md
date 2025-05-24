@@ -179,3 +179,6 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Link to W&B project
+https://wandb.ai/simsib21-western-governors-university/nyc_airbnb  
