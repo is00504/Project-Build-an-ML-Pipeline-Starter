@@ -180,8 +180,8 @@ Please, make sure all steps are using **the same** python version and that you h
 
 [License](LICENSE.txt)
 
-## Link to W&B project
-https://wandb.ai/simsib21-western-governors-university/nyc_airbnb
+## Link to W&B Report project
+[https://wandb.ai/simsib21-western-governors-university/nyc_airbnb](https://wandb.ai/simsib21-western-governors-university/nyc_airbnb/reports/W-B--VmlldzoxMjkzNjA2NQ)
 
 ## Link to repository
 https://github.com/is00504/Project-Build-an-ML-Pipeline-Starter.git
